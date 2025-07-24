@@ -108,12 +108,11 @@
   font-weight: 400;
   margin: 0;
   color: #ffffff;
-  padding-bottom: 28px;
 }
 
 .staff__cards {
   display: flex;
-  margin-top: 0;
+  margin-top: 68px;
   margin-right: auto;
   margin-bottom: 0;
   margin-left: auto;
