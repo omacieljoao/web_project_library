@@ -113,9 +113,9 @@
 
 .staff__cards {
   display: flex;
-
+  margin-top: 0;
   margin-right: auto;
-
+  margin-bottom: 0;
   margin-left: auto;
   max-width: 760px;
   flex-wrap: wrap;
