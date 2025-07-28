@@ -316,6 +316,7 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
+  column-gap: 40px;
 }
 
 .step {
@@ -388,7 +389,7 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   column-gap: 10px;
 }
 
