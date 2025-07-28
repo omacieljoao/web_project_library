@@ -313,7 +313,7 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  column-gap: 100px;
+  margin: 100px 0 0;
   display: flex;
   justify-content: center;
 }
@@ -388,12 +388,11 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: baseline;
-  column-gap: 16px;
+  align-items: flex-start;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
-  margin-right: 10px;
   height: 16px;
   width: 16px;
 }
